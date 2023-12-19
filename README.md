@@ -24,7 +24,7 @@
 
 ## 📖 Rails API <a name="about-project"></a>
 
-**Rails API** is a Ruby on Rails API, serving as the backend for a full-stack web application. It offers the capability to fetch and display random greetings from a collection of messages.
+**Rails API** is a Ruby on Rails API, serving as the backend for a full-stack web application. It offers the capability to fetch and display random greetings from a collection of messages.Here is a link to the Front end [Link](https://github.com/Zel-hub7/hello-react-front-end)
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
